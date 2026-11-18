@@ -1,0 +1,6 @@
+id=peridot_audio_props
+name=Peridot Audio Props (MiSound ASC)
+version=v1.0
+versionCode=1
+author=varun
+description=Restores the vendor/ODM audio props missing on this ROM (MiSound ASC smart-amp, AW882xx monitor, stock gain staging). Fixes low internal-speaker volume on POCO F6 / Redmi Turbo 3 (peridot). Systemless: props applied via resetprop at boot, no files replaced.
